@@ -1,9 +1,0 @@
-Mit dieser Firmware können die einzelnen Ports, sowie die Spannungsversorgung getestet werden.
-
-Weitere Infos im Handbuch.
-
---
-
-Using this firmware you can test each single port and the power supply.
-
-More info in the manual.
